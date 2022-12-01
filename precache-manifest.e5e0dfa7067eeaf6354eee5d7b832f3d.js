@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/expense-tracker/static/js/runtime~main.2c594b5b.js"
   },
   {
-    "revision": "b1a486f44837c4bd1a871273b9a702b0",
+    "revision": "760561db32cb7b62bf7040b37a1c4dd2",
     "url": "/expense-tracker/index.html"
   }
 ];
